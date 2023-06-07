@@ -30,8 +30,8 @@
         </dependency>
 
         <dependency>
-            <groupId>com.blackman</groupId>
-            <artifactId>model</artifactId>
+            <groupId>com.blackman.ssyx.model</groupId>
+            <artifactId>ssyx-model</artifactId>
             <version>1.0-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
